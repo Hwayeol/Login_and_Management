@@ -6,4 +6,4 @@ login & logout & Modifying Member Information
 
 pom.xml is err
 
-please add <dependency>
+please add dependency
